@@ -3,6 +3,11 @@
 *.log
 *.iml
 .idea/
+.gradle/
+build/
 /*.jar
 *.war
 .DS_Store
+*.ipr
+*.iws
+!gradle-wrapper.jar
